@@ -10,7 +10,7 @@ import git from '../assets/git.png'
 
 
 const About = () => {
-  const url = 'http://localhost:5173/myprojects';
+  const url = 'https://marcelocarvalho.vercel.app/myprojects';
 
   return (
     <>

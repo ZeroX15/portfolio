@@ -1,7 +1,7 @@
 import './MyProjects.css'
 import { Link } from 'react-router-dom'
 const MyProjects = () => {
-  const url = 'http://localhost:5173/links'
+  const url = 'https://marcelocarvalho.vercel.app/links'
   return (
     <>
       <div className="MyProjects">

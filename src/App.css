@@ -1,0 +1,19 @@
+body{
+  background: linear-gradient(297deg, #973CEA 0%, rgba(52, 0, 78, 0.49) 100%);
+  padding: 0;
+  margin: 0;
+}
+.logo {
+  color: #FFF;
+  font-family: 'Red Hat Display';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+

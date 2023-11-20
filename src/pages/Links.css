@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 32px;
+    color: #FFF;
+}
+
+.Profiles {
+    background: linear-gradient(117deg, rgba(106, 27, 154, 0.59) 0%, rgba(255, 255, 255, 0.59) 182.04%);
+    border-radius: 120px;
+    flex-shrink: 0;
+    height: 180px;
+    width: 180px;
+    margin: 20px 30px;
+    border: #FFF solid 2px;
+}
+.Profiles p {
+    height: 80px;
+    width: 80px;
+    padding: 30px 0 0 60px;
+}
+.Profiles img {
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+}
+.Network img {
+    height: 80px;
+    width: 80px;
+    padding-right: 30px;
+}
+.Partners {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    padding: 20px 30px;
+    
+}
+.Network {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px 30px;
+}
+.Nets {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: #FFF 2px solid;
+    height: 100px;
+    width: 500px;
+    padding: 10px 20px;
+    margin: 15px;
+    border-radius: 36px;
+    background: linear-gradient(117deg, rgba(106, 27, 154, 0.59) 0%, rgba(255, 255, 255, 0.59) 182.04%);
+}
+.Nets a {
+    display: flex;
+    position: relative;
+    padding: 0 60px;
+}

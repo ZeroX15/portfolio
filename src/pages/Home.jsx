@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './Home.css'
 const Home = () => {
-    const url = 'http://localhost:5173/about'
+    const url = 'https://marcelocarvalho.vercel.app/about'
   return (
     <>
     
